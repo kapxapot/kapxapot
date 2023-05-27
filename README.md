@@ -2,7 +2,7 @@
 
 Привет! Меня зовут **Сергей Атрощенко** (также известен как **kapxapot**).
 
-Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с .NET (C#), PHP и JS. В настоящее время тружусь в **OnTarget Labs**.
+Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с .NET (C#), PHP и JS. В настоящее время трудоустроен в **OnTarget Labs**.
 
 - Мой новый проект **Timezoned** (in English) посвящен часовым поясам и работе с ними: https://timezoned.vercel.app ([репо](https://github.com/kapxapot/timezoned)). Он сделан на React / Next.js / Tailwind CSS.
 - Моим основным проектом сейчас является **"Игра в Ассоциации"**: https://associ.ru ([репо](https://github.com/kapxapot/associations)), построенная на моем PHP-фреймворке **Plasticode** ([репо](https://github.com/kapxapot/associations)). Эта игра также доступна в виде [Telegram-бота](https://t.me/AssociRuBot), [навыка Яндекс.Алисы](https://dialogs.yandex.ru/store/skills/36d6b4ed-associacii) и [смартапа Сбера](https://catalog.smartmarket.sber.ru/apps/f04d7fe5-000f-4980-aa0b-dc904f639ed4/).
