@@ -19,7 +19,7 @@ You can find my social links here: https://about.me/kapxapot
 
 Привет! Меня зовут **Сергей Атрощенко** (также известен как **kapxapot**).
 
-Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с .NET (C#), PHP и JS/TS (React). В настоящее время трудоустроен в **OnTarget Labs**.
+Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с .NET (C#), PHP и JS/TS (React). В настоящее время работаю в **OnTarget Labs**.
 
 - Мой новый проект **GPToid** представляет собой Telegram-бота, который позволяет общаться с **ChatGPT** бесплатно: https://t.me/GPToid_Bot ([репо](https://github.com/kapxapot/aws-gpt-bot-public)). Он сделан на AWS/Lambda/DynamoDB/TypeScript.
 - Еще один мини-проект **Timezoned** (in English) посвящен часовым поясам и работе с ними: https://timezoned.vercel.app ([репо](https://github.com/kapxapot/timezoned)). Он сделан на React/Next.js/Tailwind CSS/TypeScript.
