@@ -15,7 +15,7 @@ You can find my social links here: https://about.me/kapxapot
 - https://t.me/GPToid_Bot
 - Repo: https://github.com/kapxapot/aws-gpt-bot
 - Stack: AWS/Lambda/DynamoDB/TypeScript.
-- Language: Russian 🇷🇺, English 🇬🇧 is coming soon™.
+- Language: Russian 🇷🇺 (English 🇬🇧 is coming soon™)
 
 #### Timezoned
 
@@ -33,6 +33,7 @@ One of my major projects is the **Associations game**.
 - https://associ.ru
 - Repo: https://github.com/kapxapot/associations
 - Stack: PHP/MySQL/AngularJS
+- Language: Russian 🇷🇺
 - Built with my PHP framework **Plasticode** ([repo](https://github.com/kapxapot/associations)).
 - The game is also available as:
   - [Telegram bot](https://t.me/AssociRuBot)
@@ -46,6 +47,7 @@ I created another Telegram bot **Brightwood Stories**.  It offers a couple of si
 
 - https://t.me/BrightwoodBot
 - Stack: PHP/MySQL
+- Language: Russian 🇷🇺
 
 #### Brightwood Builder
 
@@ -53,6 +55,7 @@ One of my ongoing projects is also a development of the Brightwood platform, it'
 
 - https://brightwood-builder.onrender.com
 - Stack: TS/React
+- Language: English 🇬🇧
 
 #### Plasticode
 
@@ -98,7 +101,7 @@ Previously, I've created several websites dedicated to games and comics:
 - https://t.me/GPToid_Bot
 - Репо: https://github.com/kapxapot/aws-gpt-bot
 - Стек: AWS/Lambda/DynamoDB/TypeScript.
-- Язык: русский 🇷🇺, английский 🇬🇧 скоро™.
+- Язык: русский 🇷🇺 (английский 🇬🇧 скоро™)
 
 #### Timezoned
 
@@ -116,6 +119,7 @@ Previously, I've created several websites dedicated to games and comics:
 - https://associ.ru
 - Репо: https://github.com/kapxapot/associations
 - Стек: PHP/MySQL/AngularJS
+- Язык: русский 🇷🇺
 - Построена на моем PHP-фреймворке **Plasticode** ([репо](https://github.com/kapxapot/associations)).
 - Игра также доступна на следующих платформах:
   - [Telegram-бот](https://t.me/AssociRuBot)
@@ -123,13 +127,13 @@ Previously, I've created several websites dedicated to games and comics:
   - [Смартап Сбера](https://catalog.smartmarket.sber.ru/apps/f04d7fe5-000f-4980-aa0b-dc904f639ed4/)
 - Также у игры есть [публичный API](https://associ.ru/api)
 
-
 #### Яркие Истории / Brightwood Stories
 
 Я создал еще одного Telegram-бота **Яркие Истории** (Brightwood Stories). В этом боте есть пара простеньких интерактивных историй и одна карточная игра.
 
 - https://t.me/BrightwoodBot
 - Стек: PHP/MySQL
+- Язык: русский 🇷🇺
 
 #### Brightwood Builder
 
@@ -137,6 +141,7 @@ Previously, I've created several websites dedicated to games and comics:
 
 - https://brightwood-builder.onrender.com
 - Стек: TS/React
+- Язык: английский 🇬🇧
 
 #### Plasticode
 
