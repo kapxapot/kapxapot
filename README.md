@@ -34,7 +34,7 @@ One of my major projects is the **Associations game**.
 - Repo: https://github.com/kapxapot/associations
 - Stack: PHP, Bootstrap, AngularJS, MySQL
 - Language: Russian 🇷🇺
-- Built with my PHP framework **Plasticode** ([repo](https://github.com/kapxapot/associations)).
+- Built with my PHP framework **Plasticode** (see below).
 - The game is also available as:
   - [Telegram bot](https://t.me/AssociRuBot)
   - [Yandex.Alice skill](https://dialogs.yandex.ru/store/skills/36d6b4ed-associacii)
@@ -122,7 +122,7 @@ Previously, I've created several websites dedicated to games and comics:
 - Репо: https://github.com/kapxapot/associations
 - Стек: PHP, Bootstrap, AngularJS, MySQL
 - Язык: русский 🇷🇺
-- Построена на моем PHP-фреймворке **Plasticode** ([репо](https://github.com/kapxapot/associations)).
+- Построена на моем PHP-фреймворке **Plasticode** (см. ниже).
 - Игра также доступна на следующих платформах:
   - [Telegram-бот](https://t.me/AssociRuBot)
   - [Навык Яндекс.Алисы](https://dialogs.yandex.ru/store/skills/36d6b4ed-associacii)
