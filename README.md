@@ -15,7 +15,7 @@ You can find my social links here: https://about.me/kapxapot
 - https://t.me/GPToid_Bot
 - Repo: https://github.com/kapxapot/aws-gpt-bot
 - Stack: TypeScript, Node.js, AWS (Lambda, DynamoDB)
-- Language: Russian 🇷🇺 (English 🇬🇧 is coming soon™)
+- Language: Russian 🇷🇺
 
 #### Timezoned
 
@@ -103,7 +103,7 @@ Previously, I've created several websites dedicated to games and comics:
 - https://t.me/GPToid_Bot
 - Репо: https://github.com/kapxapot/aws-gpt-bot
 - Стек: TypeScript, Node.js, AWS (Lambda, DynamoDB)
-- Язык: русский 🇷🇺 (английский 🇬🇧 скоро™)
+- Язык: русский 🇷🇺
 
 #### Timezoned
 
