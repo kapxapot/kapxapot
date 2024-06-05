@@ -14,7 +14,7 @@ You can find my social links here: https://about.me/kapxapot
 
 - https://t.me/GPToid_Bot
 - Repo: https://github.com/kapxapot/aws-gpt-bot
-- Stack: AWS/Lambda/DynamoDB/TypeScript.
+- Stack: TypeScript, Node.js, AWS (Lambda, DynamoDB)
 - Language: Russian 🇷🇺 (English 🇬🇧 is coming soon™)
 
 #### Timezoned
@@ -23,7 +23,7 @@ A mini-project **Timezoned** helps to manage and track timezones in your browser
 
 - https://timezoned.vercel.app
 - Repo: https://github.com/kapxapot/timezoned
-- Stack: React/Next.js/Tailwind CSS/TypeScript
+- Stack: TypeScript, React, Tailwind CSS, Next.js
 - Language: English 🇬🇧
 
 #### Associations game
@@ -32,7 +32,7 @@ One of my major projects is the **Associations game**.
 
 - https://associ.ru
 - Repo: https://github.com/kapxapot/associations
-- Stack: PHP/MySQL/AngularJS
+- Stack: PHP, Bootstrap, AngularJS, MySQL
 - Language: Russian 🇷🇺
 - Built with my PHP framework **Plasticode** ([repo](https://github.com/kapxapot/associations)).
 - The game is also available as:
@@ -46,15 +46,16 @@ One of my major projects is the **Associations game**.
 I created another Telegram bot **Brightwood Stories**.  It offers a couple of simple interactive stories and one card game.
 
 - https://t.me/BrightwoodBot
-- Stack: PHP/MySQL
+- Stack: PHP, MySQL
 - Language: Russian 🇷🇺
 
-#### Brightwood Builder
+#### Brightwood Builder (🛠 in development)
 
 One of my ongoing projects is also a development of the Brightwood platform, it's a visual Telegram bot flow editor called **Brightwood Builder**.
 
-- https://brightwood-builder.onrender.com
-- Stack: TS/React
+- Work in progress: https://brightwood-builder.onrender.com
+- Repo: https://github.com/kapxapot/brightwood-builder
+- Stack: TypeScript, React, Tailwind CSS, shadcn/ui
 - Language: English 🇬🇧
 
 #### Plasticode
@@ -62,7 +63,7 @@ One of my ongoing projects is also a development of the Brightwood platform, it'
 I've created a PHP meta-framework **Plasticode** on top of the Slim framework.
 
 - Repo: https://github.com/kapxapot/plasticode
-- Stack: PHP/AngularJS/Slim/Bootstrap
+- Stack: PHP, Bootstrap, AngularJS, Slim
 - Websites built on the framework:
   - https://warcry.ru
   - https://dacomics.ru
@@ -74,6 +75,7 @@ I extracted my own DI container implementation from Plasticode.
 
 - PSR-compliant
 - Repo: https://github.com/kapxapot/plasticode-di
+- Stack: PHP
 
 ### Websites
 
@@ -100,7 +102,7 @@ Previously, I've created several websites dedicated to games and comics:
 
 - https://t.me/GPToid_Bot
 - Репо: https://github.com/kapxapot/aws-gpt-bot
-- Стек: AWS/Lambda/DynamoDB/TypeScript.
+- Стек: TypeScript, Node.js, AWS (Lambda, DynamoDB)
 - Язык: русский 🇷🇺 (английский 🇬🇧 скоро™)
 
 #### Timezoned
@@ -109,7 +111,7 @@ Previously, I've created several websites dedicated to games and comics:
 
 - https://timezoned.vercel.app
 - Репо: https://github.com/kapxapot/timezoned
-- Стек: React/Next.js/Tailwind CSS/TypeScript
+- Стек: TypeScript, React, Tailwind CSS, Next.js
 - Язык: английский 🇬🇧
 
 #### Игра в ассоциации
@@ -118,7 +120,7 @@ Previously, I've created several websites dedicated to games and comics:
 
 - https://associ.ru
 - Репо: https://github.com/kapxapot/associations
-- Стек: PHP/MySQL/AngularJS
+- Стек: PHP, Bootstrap, AngularJS, MySQL
 - Язык: русский 🇷🇺
 - Построена на моем PHP-фреймворке **Plasticode** ([репо](https://github.com/kapxapot/associations)).
 - Игра также доступна на следующих платформах:
@@ -132,15 +134,16 @@ Previously, I've created several websites dedicated to games and comics:
 Я создал еще одного Telegram-бота **Яркие Истории** (Brightwood Stories). В этом боте есть пара простеньких интерактивных историй и одна карточная игра.
 
 - https://t.me/BrightwoodBot
-- Стек: PHP/MySQL
+- Стек: PHP, MySQL
 - Язык: русский 🇷🇺
 
-#### Brightwood Builder
+#### Brightwood Builder (🛠 в разработке)
 
 Также я сейчас работаю над развитием платформы Ярких Историй (Brightwood). В разработке находится визуальный редактор сценариев Telegram-ботов **Brightwood Builder**.
 
-- https://brightwood-builder.onrender.com
-- Стек: TS/React
+- Рабочая версия: https://brightwood-builder.onrender.com
+- Репо: https://github.com/kapxapot/brightwood-builder
+- Стек: TypeScript, React, Tailwind CSS, shadcn/ui
 - Язык: английский 🇬🇧
 
 #### Plasticode
@@ -148,7 +151,7 @@ Previously, I've created several websites dedicated to games and comics:
 Я создал PHP мета-фреймворк **Plasticode** поверх фреймворка Slim.
 
 - Репо: https://github.com/kapxapot/plasticode
-- Стек: PHP/AngularJS/Slim/Bootstrap
+- Стек: PHP, Bootstrap, AngularJS, Slim
 - Веб-сайты, построенные на Plasticode:
   - https://warcry.ru
   - https://dacomics.ru
@@ -160,6 +163,7 @@ Previously, I've created several websites dedicated to games and comics:
 
 - PSR-совместимый.
 - Репо: https://github.com/kapxapot/plasticode-di
+- Стек: PHP
 
 ### Веб-сайты
 
