@@ -86,6 +86,10 @@ Previously, I've created several websites dedicated to games and comics:
 - http://grimdawn.ru
 - http://subgames.ru
 
+### Support me
+
+You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) and [from Russia](https://pay.cloudtips.ru/p/064a10db).
+
 ## Русский
 
 Привет! Меня зовут **Сергей Атрощенко** (также известен как **kapxapot**).
@@ -173,3 +177,7 @@ Previously, I've created several websites dedicated to games and comics:
 - https://dacomics.ru
 - http://grimdawn.ru
 - http://subgames.ru
+
+### Поддержите меня
+
+Вы можете поддержать мои проекты как [из России](https://pay.cloudtips.ru/p/064a10db), так и [из-за рубежа](https://www.buymeacoffee.com/kapxapot).
