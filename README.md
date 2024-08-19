@@ -56,7 +56,7 @@ One of my ongoing projects is also a development of the Brightwood platform, it'
 - Work in progress: https://brightwood-builder.onrender.com
 - Repo: https://github.com/kapxapot/brightwood-builder
 - Stack: TypeScript, React, Tailwind CSS, shadcn/ui
-- Language: English 🇬🇧
+- Language: English 🇬🇧 🇷🇺
 
 #### Plasticode
 
@@ -148,7 +148,7 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
 - Рабочая версия: https://brightwood-builder.onrender.com
 - Репо: https://github.com/kapxapot/brightwood-builder
 - Стек: TypeScript, React, Tailwind CSS, shadcn/ui
-- Язык: английский 🇬🇧
+- Язык: английский 🇬🇧 🇷🇺
 
 #### Plasticode
 
