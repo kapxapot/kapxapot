@@ -41,9 +41,9 @@ One of my major projects is the **Associations game**.
   - [Sber smartapp](https://catalog.smartmarket.sber.ru/apps/f04d7fe5-000f-4980-aa0b-dc904f639ed4/)
 - The game also has a [public API](https://associ.ru/api)
 
-#### Brightwood Stories
+#### Brightwood Stories (🛠 in development)
 
-I created another Telegram bot **Brightwood Stories**.  It offers a couple of simple interactive stories and one card game.
+I created another Telegram bot **Brightwood Stories**. It offers a couple of simple interactive stories and one card game.
 
 - https://t.me/BrightwoodBot
 - Stack: PHP, MySQL
@@ -56,7 +56,7 @@ One of my ongoing projects is also a development of the Brightwood platform, it'
 - Work in progress: https://brightwood-builder.onrender.com
 - Repo: https://github.com/kapxapot/brightwood-builder
 - Stack: TypeScript, React, Tailwind CSS, shadcn/ui
-- Language: English 🇬🇧 🇷🇺
+- Languages: English 🇬🇧, Italian 🇮🇹, Russian 🇷🇺
 
 #### Plasticode
 
@@ -133,7 +133,7 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
   - [Смартап Сбера](https://catalog.smartmarket.sber.ru/apps/f04d7fe5-000f-4980-aa0b-dc904f639ed4/)
 - Также у игры есть [публичный API](https://associ.ru/api)
 
-#### Яркие Истории / Brightwood Stories
+#### Яркие Истории / Brightwood Stories (🛠 в разработке)
 
 Я создал еще одного Telegram-бота **Яркие Истории** (Brightwood Stories). В этом боте есть пара простеньких интерактивных историй и одна карточная игра.
 
@@ -148,7 +148,7 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
 - Рабочая версия: https://brightwood-builder.onrender.com
 - Репо: https://github.com/kapxapot/brightwood-builder
 - Стек: TypeScript, React, Tailwind CSS, shadcn/ui
-- Язык: английский 🇬🇧 🇷🇺
+- Язык: английский 🇬🇧, итальянский 🇮🇹, русский 🇷🇺
 
 #### Plasticode
 
