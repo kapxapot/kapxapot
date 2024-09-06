@@ -90,6 +90,8 @@ Previously, I've created several websites dedicated to games and comics:
 
 You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) and [from Russia](https://pay.cloudtips.ru/p/064a10db).
 
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-violet.png)](https://www.buymeacoffee.com/kapxapot)
+
 ## Русский
 
 Привет! Меня зовут **Сергей Атрощенко** (также известен как **kapxapot**).
@@ -181,3 +183,5 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
 ### Поддержите меня
 
 Вы можете поддержать мои проекты как [из России](https://pay.cloudtips.ru/p/064a10db), так и [из-за рубежа](https://www.buymeacoffee.com/kapxapot).
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-violet.png)](https://www.buymeacoffee.com/kapxapot)
