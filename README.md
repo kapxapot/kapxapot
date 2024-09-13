@@ -8,18 +8,40 @@ You can find my social links here: https://about.me/kapxapot
 
 ### My projects
 
-#### GPToid
+#### GPToid (🛠 in development)
 
-**GPToid** is a Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** images for free.
+A Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** images for free.
 
 - https://t.me/GPToid_Bot
 - Repo: https://github.com/kapxapot/aws-gpt-bot
 - Stack: TypeScript, Node.js, AWS (Lambda, DynamoDB)
 - Language: Russian 🇷🇺
 
+#### Brightwood Stories (🛠 in development)
+
+A Telegram bot that offers several interactive stories and one card game. It's possible to create and upload your own stories using **Brightwood Builder** (see below).
+
+- https://t.me/BrightwoodBot
+- Stack: PHP, MySQL
+- Languages: English 🇬🇧, Russian 🇷🇺
+
+#### Brightwood Builder (🛠 in development)
+
+A visual Telegram bot flow editor. A continuation of the Brightwood platform.
+
+- https://brightwood-builder.onrender.com
+- Repo: https://github.com/kapxapot/brightwood-builder
+- Stack: TypeScript, React, Tailwind CSS, shadcn/ui
+- Languages:
+  - English 🇬🇧
+  - Italian 🇮🇹
+  - Japanese 🇯🇵
+  - Russian 🇷🇺
+  - Spanish 🇪🇸
+
 #### Timezoned
 
-A mini-project **Timezoned** helps to manage and track timezones in your browser.
+A mini-project that helps manage and track timezones in your browser.
 
 - https://timezoned.vercel.app
 - Repo: https://github.com/kapxapot/timezoned
@@ -28,39 +50,22 @@ A mini-project **Timezoned** helps to manage and track timezones in your browser
 
 #### Associations game
 
-One of my major projects is the **Associations game**.
+One of my major projects is the **Associations game**. It's a word game that can be played with a computer.
 
 - https://associ.ru
 - Repo: https://github.com/kapxapot/associations
 - Stack: PHP, Bootstrap, AngularJS, MySQL
 - Language: Russian 🇷🇺
-- Built with my PHP framework **Plasticode** (see below).
+- Built with my PHP meta-framework **Plasticode** (see below).
 - The game is also available as:
   - [Telegram bot](https://t.me/AssociRuBot)
   - [Yandex.Alice skill](https://dialogs.yandex.ru/store/skills/36d6b4ed-associacii)
   - [Sber smartapp](https://catalog.smartmarket.sber.ru/apps/f04d7fe5-000f-4980-aa0b-dc904f639ed4/)
 - The game also has a [public API](https://associ.ru/api)
 
-#### Brightwood Stories (🛠 in development)
-
-I created another Telegram bot **Brightwood Stories**. It offers a couple of simple interactive stories and one card game.
-
-- https://t.me/BrightwoodBot
-- Stack: PHP, MySQL
-- Language: Russian 🇷🇺
-
-#### Brightwood Builder (🛠 in development)
-
-One of my ongoing projects is also a development of the Brightwood platform, it's a visual Telegram bot flow editor called **Brightwood Builder**.
-
-- Work in progress: https://brightwood-builder.onrender.com
-- Repo: https://github.com/kapxapot/brightwood-builder
-- Stack: TypeScript, React, Tailwind CSS, shadcn/ui
-- Languages: English 🇬🇧, Italian 🇮🇹, Russian 🇷🇺
-
 #### Plasticode
 
-I've created a PHP meta-framework **Plasticode** on top of the Slim framework.
+A PHP meta-framework **Plasticode** was created on top of the Slim framework used in my sites.
 
 - Repo: https://github.com/kapxapot/plasticode
 - Stack: PHP, Bootstrap, AngularJS, Slim
@@ -71,7 +76,7 @@ I've created a PHP meta-framework **Plasticode** on top of the Slim framework.
 
 #### Plasticode DI
 
-I extracted my own DI container implementation from Plasticode.
+A DI container implementation from Plasticode.
 
 - PSR-compliant
 - Repo: https://github.com/kapxapot/plasticode-di
@@ -102,18 +107,40 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
 
 ### Мои проекты
 
-#### GPToid
+#### GPToid (🛠 в разработке)
 
-**GPToid** представляет собой Telegram-бота, который позволяет общаться с **ChatGPT** и создавать картинки в **DALL-E 3** бесплатно.
+Telegram-бот, который позволяет общаться с **ChatGPT** и создавать картинки в **DALL-E 3** бесплатно.
 
 - https://t.me/GPToid_Bot
 - Репо: https://github.com/kapxapot/aws-gpt-bot
 - Стек: TypeScript, Node.js, AWS (Lambda, DynamoDB)
 - Язык: русский 🇷🇺
 
+#### Яркие Истории / Brightwood Stories (🛠 в разработке)
+
+Telegram-бот с интерактивными историями и одной карточной игрой. Можно также самостоятельно создавать и загружать свои истории с помощью **Brightwood Builder** (см. ниже).
+
+- https://t.me/BrightwoodBot
+- Стек: PHP, MySQL
+- Языки: английский 🇬🇧, русский 🇷🇺
+
+#### Brightwood Builder (🛠 в разработке)
+
+Визуальный редактор сценариев Telegram-ботов. Развитие платформы Ярких Историй (Brightwood).
+
+- https://brightwood-builder.onrender.com
+- Репо: https://github.com/kapxapot/brightwood-builder
+- Стек: TypeScript, React, Tailwind CSS, shadcn/ui
+- Язык:
+  - английский 🇬🇧
+  - испанский 🇪🇸
+  - итальянский 🇮🇹
+  - русский 🇷🇺
+  - японский 🇯🇵
+
 #### Timezoned
 
-Мини-проект **Timezoned** посвящен часовым поясам и работе с ними.
+Мини-проект, помогающий работать с разными часовыми поясами.
 
 - https://timezoned.vercel.app
 - Репо: https://github.com/kapxapot/timezoned
@@ -122,7 +149,7 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
 
 #### Игра в ассоциации
 
-Одним из моих больших проектов является **Игра в ассоциации**.
+Одним из моих больших проектов является **Игра в ассоциации**. Это словесная игра, в которую можно играть с компьютером.
 
 - https://associ.ru
 - Репо: https://github.com/kapxapot/associations
@@ -135,26 +162,9 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
   - [Смартап Сбера](https://catalog.smartmarket.sber.ru/apps/f04d7fe5-000f-4980-aa0b-dc904f639ed4/)
 - Также у игры есть [публичный API](https://associ.ru/api)
 
-#### Яркие Истории / Brightwood Stories (🛠 в разработке)
-
-Я создал еще одного Telegram-бота **Яркие Истории** (Brightwood Stories). В этом боте есть пара простеньких интерактивных историй и одна карточная игра.
-
-- https://t.me/BrightwoodBot
-- Стек: PHP, MySQL
-- Язык: русский 🇷🇺
-
-#### Brightwood Builder (🛠 в разработке)
-
-Также я сейчас работаю над развитием платформы Ярких Историй (Brightwood). В разработке находится визуальный редактор сценариев Telegram-ботов **Brightwood Builder**.
-
-- Рабочая версия: https://brightwood-builder.onrender.com
-- Репо: https://github.com/kapxapot/brightwood-builder
-- Стек: TypeScript, React, Tailwind CSS, shadcn/ui
-- Язык: английский 🇬🇧, итальянский 🇮🇹, русский 🇷🇺
-
 #### Plasticode
 
-Я создал PHP мета-фреймворк **Plasticode** поверх фреймворка Slim.
+PHP мета-фреймворк, созданный поверх фреймворка Slim и использующийся на моих сайтах.
 
 - Репо: https://github.com/kapxapot/plasticode
 - Стек: PHP, Bootstrap, AngularJS, Slim
@@ -165,7 +175,7 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
 
 #### Plasticode DI
 
-Моя реализация DI-контейнера, выделенная из Plasticode.
+Реализация DI-контейнера, выделенная из Plasticode.
 
 - PSR-совместимый.
 - Репо: https://github.com/kapxapot/plasticode-di
