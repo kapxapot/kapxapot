@@ -48,6 +48,8 @@ A mini-project that helps manage and track timezones in your browser.
 - Stack: TypeScript, React, Tailwind CSS, Next.js
 - Language: English 🇬🇧
 
+Check out the Timezoned Product Hunt page: https://www.producthunt.com/products/timezoned
+
 #### Associations game
 
 One of my major projects is the **Associations game**. It's a word game that can be played with a computer.
@@ -146,6 +148,8 @@ Telegram-бот с интерактивными историями и одной
 - Репо: https://github.com/kapxapot/timezoned
 - Стек: TypeScript, React, Tailwind CSS, Next.js
 - Язык: английский 🇬🇧
+
+Загляните на страницу Timezoned на Product Hunt: https://www.producthunt.com/products/timezoned
 
 #### Игра в ассоциации
 
