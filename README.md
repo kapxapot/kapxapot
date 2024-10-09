@@ -2,9 +2,20 @@
 
 Hello! My name is **Sergey Atroshchenko** also known as **kapxapot**.
 
-I am a professional full-stack developer and a team lead, working with .NET (C#), PHP, and JS/TS (React/Angular).
+I am a professional full-stack developer and a team lead. I work with .NET (C#), PHP, and JS/TS (React/Angular).
 
 You can find my social links here: https://about.me/kapxapot
+
+<table>
+  <tr>
+    <td valign="top">
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=kapxapot&show_icons=true&hide=contribs">
+    </td>
+    <td valign="top">
+      <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapxapot&show_icons=true&layout=compact">
+    </td>
+  </tr>
+</table>
 
 ### My projects
 
