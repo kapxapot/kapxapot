@@ -26,7 +26,7 @@ A Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** i
 - https://t.me/GPToid_Bot
 - Repo: https://github.com/kapxapot/aws-gpt-bot
 - Stack: TypeScript, Node.js, AWS (Lambda, DynamoDB)
-- Language: English 🇬🇧, Russian 🇷🇺
+- Languages: English 🇬🇧, Russian 🇷🇺
 
 #### Brightwood Stories (🛠 in development)
 
@@ -127,7 +127,7 @@ Telegram-бот, который позволяет общаться с **ChatGPT
 - https://t.me/GPToid_Bot
 - Репо: https://github.com/kapxapot/aws-gpt-bot
 - Стек: TypeScript, Node.js, AWS (Lambda, DynamoDB)
-- Язык: английский 🇬🇧, русский 🇷🇺
+- Языки: английский 🇬🇧, русский 🇷🇺
 
 #### Яркие Истории / Brightwood Stories (🛠 в разработке)
 
@@ -144,7 +144,7 @@ Telegram-бот с интерактивными историями и одной
 - https://brightwood-builder.onrender.com
 - Репо: https://github.com/kapxapot/brightwood-builder
 - Стек: TypeScript, React, Tailwind CSS, shadcn/ui
-- Язык:
+- Языки:
   - английский 🇬🇧
   - испанский 🇪🇸
   - итальянский 🇮🇹
