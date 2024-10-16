@@ -2,7 +2,7 @@
 
 Hello! My name is **Sergey Atroshchenko** also known as **kapxapot**.
 
-I am a professional full-stack developer and a team lead. I work with .NET (C#), PHP, and JS/TS (React/Angular).
+I am a professional full-stack developer and a team lead. I work with .NET (C#), PHP, and JS/TS (Node.js/React/Angular).
 
 You can find my social links here: https://about.me/kapxapot
 
@@ -26,7 +26,7 @@ A Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** i
 - https://t.me/GPToid_Bot
 - Repo: https://github.com/kapxapot/aws-gpt-bot
 - Stack: TypeScript, Node.js, AWS (Lambda, DynamoDB)
-- Language: Russian 🇷🇺
+- Language: English 🇬🇧, Russian 🇷🇺
 
 #### Brightwood Stories (🛠 in development)
 
@@ -59,7 +59,7 @@ A mini-project that helps manage and track timezones in your browser.
 - Stack: TypeScript, React, Tailwind CSS, Next.js
 - Language: English 🇬🇧
 
-Check out the Timezoned Product Hunt page: https://www.producthunt.com/products/timezoned
+**Upvote Timezoned on Product Hunt:** https://www.producthunt.com/products/timezoned
 
 #### Associations game
 
@@ -114,7 +114,7 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
 
 Привет! Меня зовут **Сергей Атрощенко** (также известен как **kapxapot**).
 
-Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с .NET (C#), PHP и JS/TS (React/Angular).
+Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с .NET (C#), PHP и JS/TS (Node.js/React/Angular).
 
 Здесь можно найти ссылки на мои профили в соцсетях: https://about.me/kapxapot
 
@@ -127,7 +127,7 @@ Telegram-бот, который позволяет общаться с **ChatGPT
 - https://t.me/GPToid_Bot
 - Репо: https://github.com/kapxapot/aws-gpt-bot
 - Стек: TypeScript, Node.js, AWS (Lambda, DynamoDB)
-- Язык: русский 🇷🇺
+- Язык: английский 🇬🇧, русский 🇷🇺
 
 #### Яркие Истории / Brightwood Stories (🛠 в разработке)
 
@@ -160,7 +160,7 @@ Telegram-бот с интерактивными историями и одной
 - Стек: TypeScript, React, Tailwind CSS, Next.js
 - Язык: английский 🇬🇧
 
-Загляните на страницу Timezoned на Product Hunt: https://www.producthunt.com/products/timezoned
+**Оцените Timezoned на Product Hunt:** https://www.producthunt.com/products/timezoned
 
 #### Игра в ассоциации
 
