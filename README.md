@@ -23,7 +23,9 @@ You can find my social links here: https://about.me/kapxapot
 
 A Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** images for free.
 
-- https://t.me/GPToid_Bot
+- Bot: https://t.me/GPToid_Bot
+- Landing page: https://gptoid.vercel.app
+- Instagram: https://instagram.com/gptoid_bot
 - Repo: https://github.com/kapxapot/aws-gpt-bot
 - Stack: TypeScript, Node.js, AWS (Lambda, DynamoDB)
 - Languages: English 🇬🇧, Russian 🇷🇺
@@ -124,7 +126,9 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
 
 Telegram-бот, который позволяет общаться с **ChatGPT** и создавать картинки в **DALL-E 3** бесплатно.
 
-- https://t.me/GPToid_Bot
+- Бот: https://t.me/GPToid_Bot
+- Лендинг: https://gptoid.vercel.app
+- Инстаграм: https://instagram.com/gptoid_bot
 - Репо: https://github.com/kapxapot/aws-gpt-bot
 - Стек: TypeScript, Node.js, AWS (Lambda, DynamoDB)
 - Языки: английский 🇬🇧, русский 🇷🇺
