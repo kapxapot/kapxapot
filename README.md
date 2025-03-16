@@ -19,7 +19,7 @@ You can find my social links here: https://about.me/kapxapot
 
 ### My projects
 
-#### GPToid (🛠 in development)
+#### GPToid
 
 A Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** images for free.
 
@@ -30,7 +30,7 @@ A Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** i
 - Stack: TypeScript, Node.js, AWS (Lambda, DynamoDB)
 - Languages: English 🇬🇧, Russian 🇷🇺
 
-#### Brightwood Stories (🛠 in development)
+#### Brightwood Stories
 
 A Telegram bot that offers several interactive stories and one card game. It's possible to create and upload your own stories using **Brightwood Builder** (see below).
 
@@ -38,7 +38,7 @@ A Telegram bot that offers several interactive stories and one card game. It's p
 - Stack: PHP, MySQL
 - Languages: English 🇬🇧, Russian 🇷🇺
 
-#### Brightwood Builder (🛠 in development)
+#### Brightwood Builder
 
 A visual Telegram bot flow editor. A continuation of the Brightwood platform.
 
@@ -122,7 +122,7 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
 
 ### Мои проекты
 
-#### GPToid (🛠 в разработке)
+#### GPToid
 
 Telegram-бот, который позволяет общаться с **ChatGPT** и создавать картинки в **DALL-E 3** бесплатно.
 
@@ -133,7 +133,7 @@ Telegram-бот, который позволяет общаться с **ChatGPT
 - Стек: TypeScript, Node.js, AWS (Lambda, DynamoDB)
 - Языки: английский 🇬🇧, русский 🇷🇺
 
-#### Яркие Истории / Brightwood Stories (🛠 в разработке)
+#### Яркие Истории / Brightwood Stories
 
 Telegram-бот с интерактивными историями и одной карточной игрой. Можно также самостоятельно создавать и загружать свои истории с помощью **Brightwood Builder** (см. ниже).
 
@@ -141,7 +141,7 @@ Telegram-бот с интерактивными историями и одной
 - Стек: PHP, MySQL
 - Языки: английский 🇬🇧, русский 🇷🇺
 
-#### Brightwood Builder (🛠 в разработке)
+#### Brightwood Builder
 
 Визуальный редактор сценариев Telegram-ботов. Развитие платформы Ярких Историй (Brightwood).
 
