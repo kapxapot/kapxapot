@@ -4,8 +4,6 @@ Hello! My name is **Sergey Atroshchenko** also known as **kapxapot**.
 
 I am a professional full-stack developer and a team lead. I work with .NET (C#), PHP, and JS/TS (Node.js/React/Angular).
 
-You can find my social links here: https://about.me/kapxapot
-
 <table>
   <tr>
     <td valign="top">
@@ -117,8 +115,6 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
 Привет! Меня зовут **Сергей Атрощенко** (также известен как **kapxapot**).
 
 Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с .NET (C#), PHP и JS/TS (Node.js/React/Angular).
-
-Здесь можно найти ссылки на мои профили в соцсетях: https://about.me/kapxapot
 
 ### Мои проекты
 
