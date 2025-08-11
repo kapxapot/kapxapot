@@ -102,7 +102,6 @@ Previously, I've created several websites dedicated to games and comics:
 - https://warcry.ru
 - https://dacomics.ru
 - http://grimdawn.ru
-- http://subgames.ru
 
 ### Support me
 
@@ -203,7 +202,6 @@ PHP мета-фреймворк, созданный поверх фреймво�
 - https://warcry.ru
 - https://dacomics.ru
 - http://grimdawn.ru
-- http://subgames.ru
 
 ### Поддержите меня
 
