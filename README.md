@@ -73,7 +73,6 @@ One of my major projects is the **Associations game**. It's a word game that can
 - The game is also available as:
   - [Telegram bot](https://t.me/AssociRuBot)
   - [Yandex.Alice skill](https://dialogs.yandex.ru/store/skills/36d6b4ed-associacii)
-  - [Sber smartapp](https://catalog.smartmarket.sber.ru/apps/f04d7fe5-000f-4980-aa0b-dc904f639ed4/)
 - The game also has a [public API](https://associ.ru/api)
 
 #### Plasticode
@@ -173,7 +172,6 @@ Telegram-бот с интерактивными историями и одной
 - Игра также доступна на следующих платформах:
   - [Telegram-бот](https://t.me/AssociRuBot)
   - [Навык Яндекс.Алисы](https://dialogs.yandex.ru/store/skills/36d6b4ed-associacii)
-  - [Смартап Сбера](https://catalog.smartmarket.sber.ru/apps/f04d7fe5-000f-4980-aa0b-dc904f639ed4/)
 - Также у игры есть [публичный API](https://associ.ru/api)
 
 #### Plasticode
