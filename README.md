@@ -17,6 +17,20 @@ I am a professional full-stack developer and a team lead. I work with .NET (C#),
 
 ### My projects
 
+#### ⚒ Unannounced Project
+
+I am currently working on a project built with Next.js and Supabase that also has connection to Google Maps.
+
+#### Karina Azatyan Photography
+
+I've helped to build a personal photography portfolio website for my wife.
+
+📷 [kari.photo](https://kari.photo)
+
+- Repo: https://github.com/kapxapot/kari-photo
+- Stack: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
+- Languages: English 🇬🇧, Russian 🇷🇺
+
 #### GPToid
 
 A Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** images for free.
@@ -115,6 +129,20 @@ You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) a
 Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с .NET (C#), PHP и JS/TS (Node.js/React/Angular).
 
 ### Мои проекты
+
+#### ⚒ Необъявленный проект
+
+В данный момент я работаю над проектом, построенном на Next.js и Supabase, который также связан с Google Maps.
+
+#### Karina Azatyan Photography
+
+Я помог создать веб-сайт с персональным портфолио фотографа для моей жены.
+
+📷 [kari.photo](https://kari.photo)
+
+- Репо: https://github.com/kapxapot/kari-photo
+- Стек: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
+- Языки: английский 🇬🇧, русский 🇷🇺
 
 #### GPToid
 
