@@ -118,8 +118,6 @@ Previously, I've created several websites dedicated to games and comics:
 
 ### Support me
 
-You can support my projects [worldwide](https://www.buymeacoffee.com/kapxapot) and [from Russia](https://pay.cloudtips.ru/p/064a10db).
-
 <a href="https://www.buymeacoffee.com/kapxapot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Русский
@@ -230,7 +228,5 @@ PHP мета-фреймворк, созданный поверх фреймво�
 - http://grimdawn.ru
 
 ### Поддержите меня
-
-Вы можете поддержать мои проекты как [из России](https://pay.cloudtips.ru/p/064a10db), так и [из-за рубежа](https://www.buymeacoffee.com/kapxapot).
 
 <a href="https://www.buymeacoffee.com/kapxapot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
