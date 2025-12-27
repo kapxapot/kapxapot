@@ -2,18 +2,7 @@
 
 Hello! My name is **Sergey Atroshchenko** also known as **kapxapot**.
 
-I am a professional full-stack developer and a team lead. I work with .NET (C#), PHP, and JS/TS (Node.js/React/Angular).
-
-<table>
-  <tr>
-    <td valign="top">
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=kapxapot&show_icons=true&hide=contribs">
-    </td>
-    <td valign="top">
-      <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapxapot&show_icons=true&layout=compact">
-    </td>
-  </tr>
-</table>
+I am a professional full-stack developer and a team lead. I work with JS/TS, .NET (C#) and PHP.
 
 ### My projects
 
@@ -23,7 +12,8 @@ I am currently working on a new project built with Next.js and Supabase that als
 Mapfolks allows to share your general location (up to country, region or city) with your friends, family or teammates.
 Currently in open alpha.
 
-🗺 [mapfolks.com](https://mapfolks.com)
+- 🗺 [mapfolks.com](https://mapfolks.com)
+- [Mapfolks on X (Twitter)](https://x.com/mapfolks_)
 
 <img src="https://mapfolks.com/images/screen1.png" width="640" />
 
@@ -130,7 +120,7 @@ Previously, I've created several websites dedicated to games and comics:
 
 Привет! Меня зовут **Сергей Атрощенко** (также известен как **kapxapot**).
 
-Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с .NET (C#), PHP и JS/TS (Node.js/React/Angular).
+Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с JS/TS, .NET (C#) и PHP.
 
 ### Мои проекты
 
@@ -140,7 +130,8 @@ Previously, I've created several websites dedicated to games and comics:
 Mapfolks позволяет делиться вашим примерным местоположением (вплоть до страны, региона или города) с вашими друзьями, семьей или членами команды.
 Сейчас в стадии открытой альфы.
 
-🗺 [mapfolks.com](https://mapfolks.com)
+- 🗺 [mapfolks.com](https://mapfolks.com)
+- [Mapfolks в X (Твиттере)](https://x.com/mapfolks_)
 
 <img src="https://mapfolks.com/images/screen1.png" width="640" />
 
