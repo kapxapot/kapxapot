@@ -17,9 +17,15 @@ I am a professional full-stack developer and a team lead. I work with .NET (C#),
 
 ### My projects
 
-#### ⚒ Unannounced Project
+#### ⚒ Mapfolks
 
-I am currently working on a project built with Next.js and Supabase that also has connection to Google Maps.
+I am currently working on a new project built with Next.js and Supabase that also uses Google Maps.
+Mapfolks allows to share your general location (up to country, region or city) with your friends, family or teammates.
+Currently in open alpha.
+
+🗺 [mapfolks.com](https://mapfolks.com)
+
+<img src="https://mapfolks.com/images/screen1.png" width="640" />
 
 #### Karina Azatyan Photography
 
@@ -128,9 +134,15 @@ Previously, I've created several websites dedicated to games and comics:
 
 ### Мои проекты
 
-#### ⚒ Необъявленный проект
+#### ⚒ Mapfolks
 
-В данный момент я работаю над проектом, построенном на Next.js и Supabase, который также связан с Google Maps.
+В данный момент я работаю над проектом, построенном на Next.js и Supabase, который также использует Google Maps.
+Mapfolks позволяет делиться вашим примерным местоположением (вплоть до страны, региона или города) с вашими друзьями, семьей или членами команды.
+Сейчас в стадии открытой альфы.
+
+🗺 [mapfolks.com](https://mapfolks.com)
+
+<img src="https://mapfolks.com/images/screen1.png" width="640" />
 
 #### Karina Azatyan Photography
 
