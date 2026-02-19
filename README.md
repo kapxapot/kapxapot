@@ -21,8 +21,7 @@ Currently in open alpha.
 
 I've helped to build a personal photography portfolio website for my wife.
 
-📷 [kari.photo](https://kari.photo)
-
+- 📷 [kari.photo](https://kari.photo)
 - Repo: https://github.com/kapxapot/kari-photo
 - Stack: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
 - Languages: English 🇬🇧, Russian 🇷🇺
@@ -64,7 +63,7 @@ A visual Telegram bot flow editor. A continuation of the Brightwood platform.
 
 A mini-project that helps manage and track timezones in your browser.
 
-- https://timezoned.app (new domain!)
+- ⌚ [timezoned.app](https://timezoned.app) (new domain!)
 - Repo: https://github.com/kapxapot/timezoned
 - Stack: TypeScript, React, Tailwind CSS, Next.js
 - Language: English 🇬🇧
@@ -139,8 +138,7 @@ Mapfolks позволяет делиться вашим примерным ме�
 
 Я помог создать веб-сайт с персональным портфолио фотографа для моей жены.
 
-📷 [kari.photo](https://kari.photo)
-
+- 📷 [kari.photo](https://kari.photo)
 - Репо: https://github.com/kapxapot/kari-photo
 - Стек: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
 - Языки: английский 🇬🇧, русский 🇷🇺
@@ -182,7 +180,7 @@ Telegram-бот с интерактивными историями и одной
 
 Мини-проект, помогающий работать с разными часовыми поясами.
 
-- https://timezoned.app (новый домен!)
+- ⌚ [timezoned.app](https://timezoned.app) (новый домен!)
 - Репо: https://github.com/kapxapot/timezoned
 - Стек: TypeScript, React, Tailwind CSS, Next.js
 - Язык: английский 🇬🇧
