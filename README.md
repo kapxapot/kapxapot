@@ -64,7 +64,7 @@ A visual Telegram bot flow editor. A continuation of the Brightwood platform.
 
 A mini-project that helps manage and track timezones in your browser.
 
-- https://timezoned.vercel.app
+- https://timezoned.app (new domain!)
 - Repo: https://github.com/kapxapot/timezoned
 - Stack: TypeScript, React, Tailwind CSS, Next.js
 - Language: English 🇬🇧
@@ -182,7 +182,7 @@ Telegram-бот с интерактивными историями и одной
 
 Мини-проект, помогающий работать с разными часовыми поясами.
 
-- https://timezoned.vercel.app
+- https://timezoned.app (новый домен!)
 - Репо: https://github.com/kapxapot/timezoned
 - Стек: TypeScript, React, Tailwind CSS, Next.js
 - Язык: английский 🇬🇧
