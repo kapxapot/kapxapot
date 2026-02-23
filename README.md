@@ -6,6 +6,17 @@ I am a professional full-stack developer and a team lead. I work with JS/TS, .NE
 
 ### My projects
 
+#### Telegram Bot Manager
+
+<img src="https://telebottle.vercel.app/logo.png" width="200" />
+
+Telegram Bot Manager helps to manage your Telegram bot's description and commands in different languages.
+
+- https://telebottle.vercel.app
+- Repo: https://github.com/kapxapot/telebotman
+- Stack: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
+- Languages: English 🇬🇧
+
 #### ⚒ Mapfolks
 
 I am currently working on a new project built with Next.js and Supabase that also uses Google Maps.
@@ -14,6 +25,7 @@ Currently in open alpha.
 
 - 🗺 [mapfolks.com](https://mapfolks.com)
 - [Mapfolks on X (Twitter)](https://x.com/mapfolks_)
+- Languages: English 🇬🇧
 
 <img src="https://mapfolks.com/images/screen1.png" width="640" />
 
@@ -122,6 +134,17 @@ Previously, I've created several websites dedicated to games and comics:
 Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с JS/TS, .NET (C#) и PHP.
 
 ### Мои проекты
+
+#### Telegram Bot Manager
+
+<img src="https://telebottle.vercel.app/logo.png" width="200" />
+
+Telegram Bot Manager позволяет настраивать описания и команды вашего Telegram-бота на разных языках.
+
+- https://telebottle.vercel.app
+- Репо: https://github.com/kapxapot/telebotman
+- Стек: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
+- Языки: English 🇬🇧
 
 #### ⚒ Mapfolks
 
