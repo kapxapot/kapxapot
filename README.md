@@ -6,17 +6,6 @@ I am a professional full-stack developer and a team lead. I work with JS/TS, .NE
 
 ### My projects
 
-#### Telegram Bot Manager
-
-<img src="https://telebottle.vercel.app/logo.png" width="200" />
-
-Telegram Bot Manager helps to manage your Telegram bot's description and commands in different languages.
-
-- https://telebottle.vercel.app
-- Repo: https://github.com/kapxapot/telebotman
-- Stack: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
-- Languages: English 🇬🇧
-
 #### ⚒ Mapfolks
 
 I am currently working on a new project built with Next.js and Supabase that also uses Google Maps.
@@ -28,6 +17,28 @@ Currently in open alpha.
 - Languages: English 🇬🇧
 
 <img src="https://mapfolks.com/images/screen1.png" width="640" />
+
+#### Timezoned
+
+A mini-project that helps manage and track timezones in your browser.
+
+- ⌚ [timezoned.app](https://timezoned.app)
+- Repo: https://github.com/kapxapot/timezoned
+- Stack: TypeScript, React, Tailwind CSS, Next.js
+- Language: English 🇬🇧
+
+**Upvote Timezoned on Product Hunt:** https://www.producthunt.com/products/timezoned
+
+#### Telegram Bot Manager
+
+<img src="https://telebottle.vercel.app/logo.png" width="200" />
+
+Telegram Bot Manager helps to manage your Telegram bot's description and commands in different languages.
+
+- https://telebottle.vercel.app
+- Repo: https://github.com/kapxapot/telebotman
+- Stack: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
+- Languages: English 🇬🇧
 
 #### Karina Azatyan Photography
 
@@ -70,17 +81,6 @@ A visual Telegram bot flow editor. A continuation of the Brightwood platform.
   - Japanese 🇯🇵
   - Russian 🇷🇺
   - Spanish 🇪🇸
-
-#### Timezoned
-
-A mini-project that helps manage and track timezones in your browser.
-
-- ⌚ [timezoned.app](https://timezoned.app) (new domain!)
-- Repo: https://github.com/kapxapot/timezoned
-- Stack: TypeScript, React, Tailwind CSS, Next.js
-- Language: English 🇬🇧
-
-**Upvote Timezoned on Product Hunt:** https://www.producthunt.com/products/timezoned
 
 #### Associations game
 
@@ -135,17 +135,6 @@ Previously, I've created several websites dedicated to games and comics:
 
 ### Мои проекты
 
-#### Telegram Bot Manager
-
-<img src="https://telebottle.vercel.app/logo.png" width="200" />
-
-Telegram Bot Manager позволяет настраивать описания и команды вашего Telegram-бота на разных языках.
-
-- https://telebottle.vercel.app
-- Репо: https://github.com/kapxapot/telebotman
-- Стек: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
-- Языки: English 🇬🇧
-
 #### ⚒ Mapfolks
 
 В данный момент я работаю над проектом, построенном на Next.js и Supabase, который также использует Google Maps.
@@ -156,6 +145,28 @@ Mapfolks позволяет делиться вашим примерным ме�
 - [Mapfolks в X (Твиттере)](https://x.com/mapfolks_)
 
 <img src="https://mapfolks.com/images/screen1.png" width="640" />
+
+#### Timezoned
+
+Мини-проект, помогающий работать с разными часовыми поясами.
+
+- ⌚ [timezoned.app](https://timezoned.app)
+- Репо: https://github.com/kapxapot/timezoned
+- Стек: TypeScript, React, Tailwind CSS, Next.js
+- Язык: английский 🇬🇧
+
+**Оцените Timezoned на Product Hunt:** https://www.producthunt.com/products/timezoned
+
+#### Telegram Bot Manager
+
+<img src="https://telebottle.vercel.app/logo.png" width="200" />
+
+Telegram Bot Manager позволяет настраивать описания и команды вашего Telegram-бота на разных языках.
+
+- https://telebottle.vercel.app
+- Репо: https://github.com/kapxapot/telebotman
+- Стек: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
+- Языки: English 🇬🇧
 
 #### Karina Azatyan Photography
 
@@ -198,17 +209,6 @@ Telegram-бот с интерактивными историями и одной
   - итальянский 🇮🇹
   - русский 🇷🇺
   - японский 🇯🇵
-
-#### Timezoned
-
-Мини-проект, помогающий работать с разными часовыми поясами.
-
-- ⌚ [timezoned.app](https://timezoned.app) (новый домен!)
-- Репо: https://github.com/kapxapot/timezoned
-- Стек: TypeScript, React, Tailwind CSS, Next.js
-- Язык: английский 🇬🇧
-
-**Оцените Timezoned на Product Hunt:** https://www.producthunt.com/products/timezoned
 
 #### Игра в ассоциации
 
