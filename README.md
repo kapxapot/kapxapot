@@ -27,7 +27,7 @@ A mini-project that helps manage and track timezones in your browser.
 - Stack: TypeScript, React, Tailwind CSS, Next.js
 - Language: English 🇬🇧
 
-**Upvote Timezoned on Product Hunt:** https://www.producthunt.com/products/timezoned
+Upvote Timezoned on Product Hunt: https://www.producthunt.com/products/timezoned
 
 #### Telegram Bot Manager
 
@@ -155,7 +155,7 @@ Mapfolks позволяет делиться вашим примерным ме�
 - Стек: TypeScript, React, Tailwind CSS, Next.js
 - Язык: английский 🇬🇧
 
-**Оцените Timezoned на Product Hunt:** https://www.producthunt.com/products/timezoned
+Оцените Timezoned на Product Hunt: https://www.producthunt.com/products/timezoned
 
 #### Telegram Bot Manager
 
