@@ -18,6 +18,12 @@ Currently in open alpha.
 
 <img src="https://mapfolks.com/images/screen1.png" width="640" />
 
+### Name to Avatar
+
+An API to create avatars from a user name.
+
+- [nametoavatar.com](https://nametoavatar.com)
+
 #### Timezoned
 
 A mini-project that helps manage and track timezones in your browser.
@@ -145,6 +151,12 @@ Mapfolks позволяет делиться вашим примерным ме�
 - [Mapfolks в X (Твиттере)](https://x.com/mapfolks_)
 
 <img src="https://mapfolks.com/images/screen1.png" width="640" />
+
+### Name to Avatar
+
+API, позволяющий создавать аватарки по имени пользователя.
+
+- [nametoavatar.com](https://nametoavatar.com)
 
 #### Timezoned
 
