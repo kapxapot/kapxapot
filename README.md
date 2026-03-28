@@ -18,7 +18,7 @@ Currently in open alpha.
 
 <img src="https://mapfolks.com/images/screen1.png" width="640" />
 
-### Name to Avatar
+#### Name to Avatar
 
 An API to create avatars from a user name.
 
@@ -152,7 +152,7 @@ Mapfolks позволяет делиться вашим примерным ме�
 
 <img src="https://mapfolks.com/images/screen1.png" width="640" />
 
-### Name to Avatar
+#### Name to Avatar
 
 API, позволяющий создавать аватарки по имени пользователя.
 
