@@ -78,7 +78,7 @@ A Telegram bot that offers several interactive stories and one card game. It's p
 
 A visual Telegram bot flow editor. A continuation of the Brightwood platform.
 
-- https://brightwood-builder.onrender.com
+- https://builder.brightwood.ink
 - Repo: https://github.com/kapxapot/brightwood-builder
 - Stack: TypeScript, React, Tailwind CSS, shadcn/ui
 - Languages:
@@ -212,7 +212,7 @@ Telegram-бот с интерактивными историями и одной
 
 Визуальный редактор сценариев Telegram-ботов. Развитие платформы Ярких Историй (Brightwood).
 
-- https://brightwood-builder.onrender.com
+- https://builder.brightwood.ink
 - Репо: https://github.com/kapxapot/brightwood-builder
 - Стек: TypeScript, React, Tailwind CSS, shadcn/ui
 - Языки:
