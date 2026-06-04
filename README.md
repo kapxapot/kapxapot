@@ -1,12 +1,10 @@
-## English
-
 Hello! My name is **Sergey Atroshchenko** also known as **kapxapot**.
 
 I am a professional full-stack developer and a team lead. I work with JS/TS, .NET (C#) and PHP.
 
-### My projects
+## My projects
 
-#### ⚒ Name to Avatar
+### ⚒ Name to Avatar
 
 Create realistic and genuine avatars based on names.
 Public API and avatar catalog.
@@ -15,7 +13,50 @@ Public API and avatar catalog.
 
 <img src="https://i.imgur.com/cDAJyEW.png" width="640" />
 
-#### Mapfolks
+---
+
+### Brightwood Stories
+
+Brightwood Stories is a series of projects around interactive stories with choices. It started as a Telegram bot, then I created a web editor Brightwood Builder, and the latest installment is the web version of Brightwood Stories.
+
+All updates will be done to web version and the editor only. I plan to blend them into one product.
+
+#### Brightwood Stories Bot (Brightwood v0.1)
+
+The initial Telegram bot that offers several interactive stories and one card game.
+It's possible to create and upload your own stories using **Brightwood Builder**.
+
+The work on the bot is stopped and continued in web version of **Brightwood Stories**.
+
+- https://t.me/BrightwoodBot
+- Stack: PHP, MySQL
+- Languages: English 🇬🇧, Russian 🇷🇺
+
+#### ⚒ Brightwood Builder (Brightwood v0.2)
+
+A visual editor for interactive stories.
+
+- https://builder.brightwood.ink
+- Repo: https://github.com/kapxapot/brightwood-builder
+- Stack: TypeScript, React, Tailwind CSS, shadcn/ui
+- Languages:
+  - English 🇬🇧
+  - Italian 🇮🇹
+  - Japanese 🇯🇵
+  - Russian 🇷🇺
+  - Spanish 🇪🇸
+ 
+#### ⚒ Brightwood Stories Web (Brightwood v0.3)
+
+The web version of the Brightwood. This is the current iteration of the project and the engine and 
+
+- https://brightwood.ink
+- Stack: TypeScript, React, Tailwind CSS, Next.js, shadcn/ui
+- Language: English 🇬🇧
+
+---
+
+### Mapfolks
 
 Mapfolks allows sharing your general location (up to country, region or city) with your friends, family or teammates.
 
@@ -25,7 +66,9 @@ Mapfolks allows sharing your general location (up to country, region or city) wi
 
 <img src="https://mapfolks.com/images/screen1.png" width="640" />
 
-#### Timezoned
+---
+
+### Timezoned
 
 A mini-project that helps manage and track timezones in your browser.
 
@@ -36,7 +79,9 @@ A mini-project that helps manage and track timezones in your browser.
 
 Upvote Timezoned on Product Hunt: https://www.producthunt.com/products/timezoned
 
-#### QR Life
+---
+
+### QR Life
 
 QR code scanner meets Conway's Game of Life.
 Scan a QR code and make it a starting state for the Game of Life.
@@ -49,7 +94,9 @@ Also works as a (quite shitty) QR code scanner. 😁
 
 <img src="https://i.imgur.com/TDtWh5E.png" width="320" />
 
-#### Telegram Bot Manager
+---
+
+### Telegram Bot Manager
 
 <img src="https://telebottle.vercel.app/logo.png" width="200" />
 
@@ -60,7 +107,9 @@ Telegram Bot Manager helps to manage your Telegram bot's description and command
 - Stack: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
 - Languages: English 🇬🇧
 
-#### Karina Azatyan Photography
+---
+
+### Karina Azatyan Photography
 
 I've helped to build a personal photography portfolio website for my wife.
 
@@ -69,7 +118,9 @@ I've helped to build a personal photography portfolio website for my wife.
 - Stack: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
 - Languages: English 🇬🇧, Russian 🇷🇺
 
-#### GPToid
+---
+
+### GPToid
 
 A Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** images for free.
 
@@ -80,29 +131,9 @@ A Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** i
 - Stack: TypeScript, Node.js, AWS (Lambda, DynamoDB)
 - Languages: English 🇬🇧, Russian 🇷🇺
 
-#### Brightwood Stories
+---
 
-A Telegram bot that offers several interactive stories and one card game. It's possible to create and upload your own stories using **Brightwood Builder** (see below).
-
-- https://t.me/BrightwoodBot
-- Stack: PHP, MySQL
-- Languages: English 🇬🇧, Russian 🇷🇺
-
-#### Brightwood Builder
-
-A visual Telegram bot flow editor. A continuation of the Brightwood platform.
-
-- https://builder.brightwood.ink
-- Repo: https://github.com/kapxapot/brightwood-builder
-- Stack: TypeScript, React, Tailwind CSS, shadcn/ui
-- Languages:
-  - English 🇬🇧
-  - Italian 🇮🇹
-  - Japanese 🇯🇵
-  - Russian 🇷🇺
-  - Spanish 🇪🇸
-
-#### Associations game
+### Associations game
 
 One of my major projects is the **Associations game**. It's a word game that can be played with a computer.
 
@@ -116,7 +147,9 @@ One of my major projects is the **Associations game**. It's a word game that can
   - [Yandex.Alice skill](https://dialogs.yandex.ru/store/skills/36d6b4ed-associacii)
 - The game also has a [public API](https://associ.ru/api)
 
-#### Plasticode
+---
+
+### Plasticode
 
 A PHP meta-framework **Plasticode** was created on top of the Slim framework used in my sites.
 
@@ -127,7 +160,9 @@ A PHP meta-framework **Plasticode** was created on top of the Slim framework use
   - https://dacomics.ru
   - https://associ.ru
 
-#### Plasticode DI
+---
+
+### Plasticode DI
 
 A DI container implementation from Plasticode.
 
@@ -135,7 +170,7 @@ A DI container implementation from Plasticode.
 - Repo: https://github.com/kapxapot/plasticode-di
 - Stack: PHP
 
-### Websites
+## Websites
 
 Previously, I've created several websites dedicated to games and comics:
 
@@ -143,155 +178,6 @@ Previously, I've created several websites dedicated to games and comics:
 - https://dacomics.ru
 - http://grimdawn.ru
 
-### Support me
-
-<a href="https://www.buymeacoffee.com/kapxapot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-## Русский
-
-Привет! Меня зовут **Сергей Атрощенко** (также известен как **kapxapot**).
-
-Я профессиональный фул-стек разработчик и руководитель команд (тимлид), работаю с JS/TS, .NET (C#) и PHP.
-
-### Мои проекты
-
-#### ⚒ Name to Avatar
-
-Создавайте реалистичные аватары на основе имен.
-Публичный API и каталог аватар.
-
-- [nametoavatar.com](https://nametoavatar.com)
-
-<img src="https://i.imgur.com/cDAJyEW.png" width="640" />
-
-#### Mapfolks
-
-Mapfolks позволяет делиться вашим примерным местоположением (вплоть до страны, региона или города) с вашими друзьями, семьей или членами команды.
-
-- 🗺 [mapfolks.com](https://mapfolks.com)
-- [Mapfolks в X (Twitter)](https://x.com/mapfolks_)
-- Язык: английский 🇬🇧
-
-<img src="https://mapfolks.com/images/screen1.png" width="640" />
-
-#### Timezoned
-
-Мини-проект, помогающий работать с разными часовыми поясами.
-
-- ⌚ [timezoned.app](https://timezoned.app)
-- Репо: https://github.com/kapxapot/timezoned
-- Стек: TypeScript, React, Tailwind CSS, Next.js
-- Язык: английский 🇬🇧
-
-Оцените Timezoned на Product Hunt: https://www.producthunt.com/products/timezoned
-
-#### QR Life
-
-Сканнер QR-кодов смешивается с игрой "Жизнь" Конвея.
-Отсканируйте QR-код, и он превращается в стартовую позицию для "Жизни".
-Делитесь вашими кодами с другими!
-
-Также работает и как (довольно хреновый) сканер QR-кодов. 😁
-
-- [qr-life.vercel.app](https://qr-life.vercel.app)
-- [Пример QR](https://qr-life.vercel.app/?qr=ASH-8iA_wWgoUG6yXeu3QQK126vy4uwRQE0H-iqq_gBodgCfm1FLwKWZh73Y-9P7mGl-YrhvmwpsxI4x3pKYiel6IZ1HMjP4dFTeFVeEx0W1CpxNxfzgiFosh1rRK84GBvslxLwWK5j9gFzSxb-1T2qQUGBx66im343UolKO6aKjZwS3BH_-lsGYAA&value=https%3A%2F%2Figuazuargentina.com%2Ftickets%2Fes%2Fluna.html)
-
-<img src="https://i.imgur.com/TDtWh5E.png" width="320" />
-
-#### Telegram Bot Manager
-
-<img src="https://telebottle.vercel.app/logo.png" width="200" />
-
-Telegram Bot Manager позволяет настраивать описания и команды вашего Telegram-бота на разных языках.
-
-- https://telebottle.vercel.app
-- Репо: https://github.com/kapxapot/telebotman
-- Стек: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
-- Языки: English 🇬🇧
-
-#### Karina Azatyan Photography
-
-Я помог создать веб-сайт с персональным портфолио фотографа для моей жены.
-
-- 📷 [kari.photo](https://kari.photo)
-- Репо: https://github.com/kapxapot/kari-photo
-- Стек: TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
-- Языки: английский 🇬🇧, русский 🇷🇺
-
-#### GPToid
-
-Telegram-бот, который позволяет общаться с **ChatGPT** и создавать картинки в **DALL-E 3** бесплатно.
-
-- Бот: [https://t.me/GPToid_Bot](https://t.me/GPToid_Bot?start=gh)
-- Лендинг: https://gptoid.vercel.app
-- Инстаграм: https://instagram.com/gptoid_bot
-- Репо: https://github.com/kapxapot/aws-gpt-bot
-- Стек: TypeScript, Node.js, AWS (Lambda, DynamoDB)
-- Языки: английский 🇬🇧, русский 🇷🇺
-
-#### Яркие Истории / Brightwood Stories
-
-Telegram-бот с интерактивными историями и одной карточной игрой. Можно также самостоятельно создавать и загружать свои истории с помощью **Brightwood Builder** (см. ниже).
-
-- https://t.me/BrightwoodBot
-- Стек: PHP, MySQL
-- Языки: английский 🇬🇧, русский 🇷🇺
-
-#### Brightwood Builder
-
-Визуальный редактор сценариев Telegram-ботов. Развитие платформы Ярких Историй (Brightwood).
-
-- https://builder.brightwood.ink
-- Репо: https://github.com/kapxapot/brightwood-builder
-- Стек: TypeScript, React, Tailwind CSS, shadcn/ui
-- Языки:
-  - английский 🇬🇧
-  - испанский 🇪🇸
-  - итальянский 🇮🇹
-  - русский 🇷🇺
-  - японский 🇯🇵
-
-#### Игра в ассоциации
-
-Одним из моих больших проектов является **Игра в ассоциации**. Это словесная игра, в которую можно играть с компьютером.
-
-- https://associ.ru
-- Репо: https://github.com/kapxapot/associations
-- Стек: PHP, Bootstrap, AngularJS, MySQL
-- Язык: русский 🇷🇺
-- Построена на моем PHP-фреймворке **Plasticode** (см. ниже).
-- Игра также доступна на следующих платформах:
-  - [Telegram-бот](https://t.me/AssociRuBot)
-  - [Навык Яндекс.Алисы](https://dialogs.yandex.ru/store/skills/36d6b4ed-associacii)
-- Также у игры есть [публичный API](https://associ.ru/api)
-
-#### Plasticode
-
-PHP мета-фреймворк, созданный поверх фреймворка Slim и использующийся на моих сайтах.
-
-- Репо: https://github.com/kapxapot/plasticode
-- Стек: PHP, Bootstrap, AngularJS, Slim
-- Веб-сайты, построенные на Plasticode:
-  - https://warcry.ru
-  - https://dacomics.ru
-  - https://associ.ru
-
-#### Plasticode DI
-
-Реализация DI-контейнера, выделенная из Plasticode.
-
-- PSR-совместимый.
-- Репо: https://github.com/kapxapot/plasticode-di
-- Стек: PHP
-
-### Веб-сайты
-
-Ранее я также создал несколько веб-сайтов, посвященных играм и комиксам:
-
-- https://warcry.ru
-- https://dacomics.ru
-- http://grimdawn.ru
-
-### Поддержите меня
+## Support me
 
 <a href="https://www.buymeacoffee.com/kapxapot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
