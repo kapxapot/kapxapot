@@ -6,23 +6,24 @@ I am a professional full-stack developer and a team lead. I work with JS/TS, .NE
 
 ### My projects
 
-#### ⚒ Mapfolks
+#### ⚒ Name to Avatar
 
-I am currently working on a new project built with Next.js and Supabase that also uses Google Maps.
-Mapfolks allows to share your general location (up to country, region or city) with your friends, family or teammates.
-Currently in open alpha.
+Create realistic and genuine avatars based on names.
+Public API and avatar catalog.
+
+- [nametoavatar.com](https://nametoavatar.com)
+
+<img src="https://i.imgur.com/cDAJyEW.png" width="640" />
+
+#### Mapfolks
+
+Mapfolks allows sharing your general location (up to country, region or city) with your friends, family or teammates.
 
 - 🗺 [mapfolks.com](https://mapfolks.com)
 - [Mapfolks on X (Twitter)](https://x.com/mapfolks_)
 - Languages: English 🇬🇧
 
 <img src="https://mapfolks.com/images/screen1.png" width="640" />
-
-#### Name to Avatar
-
-An API to create avatars from a user name.
-
-- [nametoavatar.com](https://nametoavatar.com)
 
 #### Timezoned
 
@@ -34,6 +35,19 @@ A mini-project that helps manage and track timezones in your browser.
 - Language: English 🇬🇧
 
 Upvote Timezoned on Product Hunt: https://www.producthunt.com/products/timezoned
+
+#### QR Life
+
+QR code scanner meets Conway's Game of Life.
+Scan a QR code and make it a starting state for the Game of Life.
+Share it with others!
+
+Also works as a (quite shitty) QR code scanner. 😁
+
+- [qr-life.vercel.app](https://qr-life.vercel.app)
+- [Example QR](https://qr-life.vercel.app/?qr=ASH-8iA_wWgoUG6yXeu3QQK126vy4uwRQE0H-iqq_gBodgCfm1FLwKWZh73Y-9P7mGl-YrhvmwpsxI4x3pKYiel6IZ1HMjP4dFTeFVeEx0W1CpxNxfzgiFosh1rRK84GBvslxLwWK5j9gFzSxb-1T2qQUGBx66im343UolKO6aKjZwS3BH_-lsGYAA&value=https%3A%2F%2Figuazuargentina.com%2Ftickets%2Fes%2Fluna.html)
+
+<img src="https://i.imgur.com/TDtWh5E.png" width="320" />
 
 #### Telegram Bot Manager
 
@@ -141,22 +155,24 @@ Previously, I've created several websites dedicated to games and comics:
 
 ### Мои проекты
 
-#### ⚒ Mapfolks
+#### ⚒ Name to Avatar
 
-В данный момент я работаю над проектом, построенном на Next.js и Supabase, который также использует Google Maps.
-Mapfolks позволяет делиться вашим примерным местоположением (вплоть до страны, региона или города) с вашими друзьями, семьей или членами команды.
-Сейчас в стадии открытой альфы.
-
-- 🗺 [mapfolks.com](https://mapfolks.com)
-- [Mapfolks в X (Твиттере)](https://x.com/mapfolks_)
-
-<img src="https://mapfolks.com/images/screen1.png" width="640" />
-
-#### Name to Avatar
-
-API, позволяющий создавать аватарки по имени пользователя.
+Создавайте реалистичные аватары на основе имен.
+Публичный API и каталог аватар.
 
 - [nametoavatar.com](https://nametoavatar.com)
+
+<img src="https://i.imgur.com/cDAJyEW.png" width="640" />
+
+#### Mapfolks
+
+Mapfolks позволяет делиться вашим примерным местоположением (вплоть до страны, региона или города) с вашими друзьями, семьей или членами команды.
+
+- 🗺 [mapfolks.com](https://mapfolks.com)
+- [Mapfolks в X (Twitter)](https://x.com/mapfolks_)
+- Язык: английский 🇬🇧
+
+<img src="https://mapfolks.com/images/screen1.png" width="640" />
 
 #### Timezoned
 
@@ -168,6 +184,19 @@ API, позволяющий создавать аватарки по имени 
 - Язык: английский 🇬🇧
 
 Оцените Timezoned на Product Hunt: https://www.producthunt.com/products/timezoned
+
+#### QR Life
+
+Сканнер QR-кодов смешивается с игрой "Жизнь" Конвея.
+Отсканируйте QR-код, и он превращается в стартовую позицию для "Жизни".
+Делитесь вашими кодами с другими!
+
+Также работает и как (довольно хреновый) сканер QR-кодов. 😁
+
+- [qr-life.vercel.app](https://qr-life.vercel.app)
+- [Пример QR](https://qr-life.vercel.app/?qr=ASH-8iA_wWgoUG6yXeu3QQK126vy4uwRQE0H-iqq_gBodgCfm1FLwKWZh73Y-9P7mGl-YrhvmwpsxI4x3pKYiel6IZ1HMjP4dFTeFVeEx0W1CpxNxfzgiFosh1rRK84GBvslxLwWK5j9gFzSxb-1T2qQUGBx66im343UolKO6aKjZwS3BH_-lsGYAA&value=https%3A%2F%2Figuazuargentina.com%2Ftickets%2Fes%2Fluna.html)
+
+<img src="https://i.imgur.com/TDtWh5E.png" width="320" />
 
 #### Telegram Bot Manager
 
