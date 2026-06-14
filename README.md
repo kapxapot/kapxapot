@@ -4,7 +4,7 @@ I am a professional full-stack developer and a team lead. I work with JS/TS, .NE
 
 ## My projects
 
-### ⚒ Name to Avatar
+### ⚒ Name to Avatar / [nametoavatar.com](https://nametoavatar.com)
 
 Create realistic and genuine avatars based on names.
 Public API and avatar catalog.
@@ -15,13 +15,13 @@ Public API and avatar catalog.
 
 ---
 
-### Brightwood Stories
+### Brightwood Stories / [brightwood.ink](https://brightwood.ink)
 
 Brightwood Stories is a series of projects around interactive stories with choices. It started as a Telegram bot, then I created a web editor Brightwood Builder, and the latest installment is the web version of Brightwood Stories.
 
 All updates will be done to web version and the editor only. I plan to blend them into one product.
 
-#### Brightwood Stories Bot (Brightwood v0.1)
+#### Brightwood Stories Bot (Brightwood v0.1) / [t.me/BrightwoodBot](https://t.me/BrightwoodBot)
 
 The initial Telegram bot that offers several interactive stories and one card game.
 It's possible to create and upload your own stories using **Brightwood Builder**.
@@ -32,7 +32,7 @@ The work on the bot is stopped and continued in web version of **Brightwood Stor
 - Stack: PHP, MySQL
 - Languages: English 🇬🇧, Russian 🇷🇺
 
-#### ⚒ Brightwood Builder (Brightwood v0.2)
+#### ⚒ Brightwood Builder (Brightwood v0.2) / [builder.brightwood.ink](https://builder.brightwood.ink)
 
 A visual editor for interactive stories.
 
@@ -46,7 +46,7 @@ A visual editor for interactive stories.
   - Russian 🇷🇺
   - Spanish 🇪🇸
  
-#### ⚒ Brightwood Stories Web (Brightwood v0.3)
+#### ⚒ Brightwood Stories Web (Brightwood v0.3) / [brightwood.ink](https://brightwood.ink)
 
 The web version of the Brightwood. This is the current iteration of the project and the engine and 
 
@@ -56,7 +56,7 @@ The web version of the Brightwood. This is the current iteration of the project 
 
 ---
 
-### Mapfolks
+### Mapfolks / [mapfolks.com](https://mapfolks.com)
 
 Mapfolks allows sharing your general location (up to country, region or city) with your friends, family or teammates.
 
@@ -68,7 +68,7 @@ Mapfolks allows sharing your general location (up to country, region or city) wi
 
 ---
 
-### Timezoned
+### Timezoned / [timezoned.app](https://timezoned.app)
 
 A mini-project that helps manage and track timezones in your browser.
 
@@ -81,22 +81,25 @@ Upvote Timezoned on Product Hunt: https://www.producthunt.com/products/timezoned
 
 ---
 
-### QR Life
+### QR Life / [qrlife.dev](https://qrlife.dev)
 
 QR code scanner meets Conway's Game of Life.
-Scan a QR code and make it a starting state for the Game of Life.
+Scan or generate a QR code and make it a starting state for the Game of Life.
 Share it with others!
 
 Also works as a (quite shitty) QR code scanner. 😁
+And a decent QR generator with SVG export.
 
-- [qr-life.vercel.app](https://qr-life.vercel.app)
-- [Example QR](https://qr-life.vercel.app/?qr=ASH-8iA_wWgoUG6yXeu3QQK126vy4uwRQE0H-iqq_gBodgCfm1FLwKWZh73Y-9P7mGl-YrhvmwpsxI4x3pKYiel6IZ1HMjP4dFTeFVeEx0W1CpxNxfzgiFosh1rRK84GBvslxLwWK5j9gFzSxb-1T2qQUGBx66im343UolKO6aKjZwS3BH_-lsGYAA&value=https%3A%2F%2Figuazuargentina.com%2Ftickets%2Fes%2Fluna.html)
+- [qrlife.dev](https://qrlife.dev)
+- Repo: https://github.com/kapxapot/qr-life
+- [Example QR](https://qrlife.dev/?qr=ASH-8iA_wWgoUG6yXeu3QQK126vy4uwRQE0H-iqq_gBodgCfm1FLwKWZh73Y-9P7mGl-YrhvmwpsxI4x3pKYiel6IZ1HMjP4dFTeFVeEx0W1CpxNxfzgiFosh1rRK84GBvslxLwWK5j9gFzSxb-1T2qQUGBx66im343UolKO6aKjZwS3BH_-lsGYAA&value=https%3A%2F%2Figuazuargentina.com%2Ftickets%2Fes%2Fluna.html)
+- Stack: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui
 
 <img src="https://i.imgur.com/TDtWh5E.png" width="320" />
 
 ---
 
-### Telegram Bot Manager
+### Telegram Bot Manager / [telebottle.vercel.app](https://telebottle.vercel.app)
 
 <img src="https://telebottle.vercel.app/logo.png" width="200" />
 
@@ -109,7 +112,7 @@ Telegram Bot Manager helps to manage your Telegram bot's description and command
 
 ---
 
-### Karina Azatyan Photography
+### Karina Azatyan Photography / [kari.photo](https://kari.photo)
 
 I've helped to build a personal photography portfolio website for my wife.
 
@@ -120,7 +123,7 @@ I've helped to build a personal photography portfolio website for my wife.
 
 ---
 
-### GPToid
+### GPToid / [t.me/GPToid_Bot](https://t.me/GPToid_Bot?start=gh)
 
 A Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** images for free.
 
@@ -133,7 +136,7 @@ A Telegram bot that allows chatting with **ChatGPT** and creating **DALL-E 3** i
 
 ---
 
-### Associations game
+### Associations game / [associ.ru](https://associ.ru)
 
 One of my major projects is the **Associations game**. It's a word game that can be played with a computer.
 
@@ -177,6 +180,8 @@ Previously, I've created several websites dedicated to games and comics:
 - https://warcry.ru
 - https://dacomics.ru
 - http://grimdawn.ru
+
+I also have my personal site that I update very rarely but it contains some personal entries: https://kapxapot.ru
 
 ## Support me
 
