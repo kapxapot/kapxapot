@@ -1,17 +1,30 @@
 Hello! My name is **Sergey Atroshchenko** also known as **kapxapot**.
 
-I am a professional full-stack developer and a team lead. I work with JS/TS, .NET (C#) and PHP.
+I am a professional full-stack developer, a team lead, and a web builder for 20+ years. I work with JS/TS, .NET (C#) and PHP.
 
 ## My projects
 
+### ⚒ Stay Up / [stayup.lol](https://stayup.lol)
+
+My take on outbid sites. I made it into a directory where you pay a small fee to get listed. You get a domain rating boost and can track your DR nicely too!
+
+- [stayup.lol](https://stayup.lol)
+
+<img src="https://i.imgur.com/zhYgVDN.png" width="640" />
+
+---
+
 ### ⚒ Name to Avatar / [nametoavatar.com](https://nametoavatar.com)
 
-Create realistic and genuine avatars based on names.
-Public API and avatar catalog.
+Create realistic avatars based on names. Generate and reuse names, identities, company rosters, and products.
+Public API, MCP, and avatar catalog.
 
 - [nametoavatar.com](https://nametoavatar.com)
+- [API Docs](https://nametoavatar.com/docs)
+- [MCP Server](https://nametoavatar.com/mcp)
+- [Orbitlane](https://nametoavatar.com) - a demo company page created using Name to Avatar MCP
 
-<img src="https://i.imgur.com/cDAJyEW.png" width="640" />
+<img src="https://i.imgur.com/ZlM1i4k.png" width="640" />
 
 ---
 
